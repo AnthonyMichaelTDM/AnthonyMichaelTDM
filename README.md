@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on getting my degree in CSE
 - 🤔 I’m looking for help getting internship experience
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anthony-rubick/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anthony-rubick/) (serious inquiries only, please)
 - ⚡ Fun fact: High-Functioning Autism :brain:
 
 
