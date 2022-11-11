@@ -50,14 +50,14 @@
   
 </p>
 
-<!-- most used languages -->
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=github_dark&langs_count=10&count_private=true" alt="anthonymichaeltdm" /></p>
-
 <!-- github stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anthonymichaeltdm&show_icons=true&locale=en&theme=github_dark&count_private=true" alt="anthonymichaeltdm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anthonymichaeltdm&show_icons=true&locale=en&theme=github_dark&count_private=true" alt="anthonymichaeltdm" /></p>
+
+<!-- most used languages -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=github_dark&langs_count=10&count_private=true" alt="anthonymichaeltdm" /></p>
 
 <!-- streak -->
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anthonymichaeltdm&theme=github_dark" alt="anthonymichaeltdm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anthonymichaeltdm&theme=github_dark" alt="anthonymichaeltdm" /></p>
 
 
 <!--
