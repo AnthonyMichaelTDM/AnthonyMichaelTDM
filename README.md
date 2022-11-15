@@ -5,15 +5,34 @@
 
 <!-- weekly activity -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2051%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-299%20Thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
+🌆 Daytime    302 commits    ███████████░░░░░░░░░░░░░░   43.7% 
+🌃 Evening    222 commits    ████████░░░░░░░░░░░░░░░░░   32.13% 
+🌙 Night      69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.99%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       138 commits    █████░░░░░░░░░░░░░░░░░░░░   19.97% 
+Tuesday      87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
+Wednesday    84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.16% 
+Thursday     87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
+Friday       56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.1% 
+Saturday     94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
+Sunday       145 commits    █████░░░░░░░░░░░░░░░░░░░░   20.98%
+
+```
+
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Los_Angeles
-
 💬 Programming Languages: 
 Python                   8 hrs 30 mins       █████████████████░░░░░░░░   67.6% 
 Markdown                 3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   27.16% 
@@ -45,7 +64,7 @@ QML                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2022 18:49:47 UTC
+ Last Updated on 15/11/2022 19:29:51 UTC
 <!--END_SECTION:waka-->
 <!-- doesn't work rn
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@AnthonyMichaelTDM&locale=en&theme=github_dark" alt="anthonymichaeltdm" /></p>
