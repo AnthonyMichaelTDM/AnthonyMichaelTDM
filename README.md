@@ -7,20 +7,8 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-299%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 792 Contributions in the Year 2022
- > 
-> 📦 544.8 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 36 Public Repositories 
- > 
-> 🔑 7 Private Repositories  
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -57,7 +45,7 @@ QML                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2022 17:53:05 UTC
+ Last Updated on 15/11/2022 18:05:52 UTC
 <!--END_SECTION:waka-->
 <!-- doesn't work rn
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@AnthonyMichaelTDM&locale=en&theme=github_dark" alt="anthonymichaeltdm" /></p>
