@@ -86,12 +86,12 @@ QML                      2 repos             ██░░░░░░░░░�
 <!--favorite languages and tools, and most used langs-->
 ### Favorite Languages and Tools:
 <!--most used languages-->
-<p align="center" >
+<p align="left" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=github_dark&langs_count=10&count_private=true&hide_title=true" alt="anthonymichaeltdm" />
 </p>
 
 <!--favorite tools and langs-->
-<p align="center"> 
+<p align="left"> 
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
   </a>
@@ -123,7 +123,7 @@ QML                      2 repos             ██░░░░░░░░░�
 <!--socials-->
 ### Connect with me:
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/anthony rubick" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony rubick" height="30" width="40" />
   </a>
