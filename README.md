@@ -174,7 +174,10 @@ QML                      2 repos             ██░░░░░░░░░�
       <a href="https://github.com/AnthonyMichaelTDM/Java-Image-Manipulation-Program"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMichaelTDM&repo=Java-Image-Manipulation-Program&show_owner=true" height="100"/></a>
       <a href="https://github.com/AnthonyMichaelTDM/Sort-Algorithm-Visualiser"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMichaelTDM&repo=Sort-Algorithm-Visualiser&show_owner=true" height="100"/></a>
     </p>
-  </details> 
+  </details>
+  
+  #### Misc 
+  see pins
 </details>
   
 <!--socials-->
