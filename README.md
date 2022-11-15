@@ -86,7 +86,12 @@ QML                      2 repos             ██░░░░░░░░░�
 
 <!--favorite languages and tools, and most used langs-->
 ### Favorite Languages and Tools:
+<!--most used languages-->
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=github_dark&langs_count=10&count_private=true&hide_title=true" alt="anthonymichaeltdm" />
+</p>
 
+<!--favorite tools and langs-->
 <p align="center"> 
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
@@ -109,10 +114,6 @@ QML                      2 repos             ██░░░░░░░░░�
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
-</p>
-
-<p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=github_dark&langs_count=10&count_private=true&hide_title=true" alt="anthonymichaeltdm" />
 </p>
 
 
