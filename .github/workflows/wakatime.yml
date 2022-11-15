@@ -31,7 +31,7 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
-          # SHOW_SHORT_INFO: "True"
+          SHOW_SHORT_INFO: "False"
           # IGNORED_REPOS: "" # can be set to "waka-readme-stats, my-first-repo" (just an example) to ignore some repos you don’t want to be counted
           SHOW_LOC_CHART: "False" #DON"T CHANGE THIS
           
