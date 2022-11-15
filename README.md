@@ -5,6 +5,59 @@
 
 <!-- weekly activity -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2051%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 792 Contributions in the Year 2022
+ > 
+> 📦 544.8 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 36 Public Repositories 
+ > 
+> 🔑 7 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Python                   8 hrs 30 mins       █████████████████░░░░░░░░   67.6% 
+Markdown                 3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   27.16% 
+Lua                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81% 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31% 
+Rust                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
+
+🔥 Editors: 
+VS Code                  12 hrs 16 mins      ████████████████████████░   97.62% 
+Neovim                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01% 
+Browser                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
+
+💻 Operating System: 
+Linux                    12 hrs 24 mins      ████████████████████████░   98.65% 
+Windows                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35%
+
+```
+
+**I Mostly Code in Rust** 
+
+```text
+Rust                     7 repos             ███████░░░░░░░░░░░░░░░░░░   28.0% 
+Shell                    6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.0% 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+C                        3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+QML                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
+
+```
+
+
+
+ Last Updated on 15/11/2022 17:53:05 UTC
 <!--END_SECTION:waka-->
 <!-- doesn't work rn
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@AnthonyMichaelTDM&locale=en&theme=github_dark" alt="anthonymichaeltdm" /></p>
