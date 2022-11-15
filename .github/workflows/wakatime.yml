@@ -18,3 +18,6 @@ jobs:
           SHOW_COMMIT: "False"
           SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "FALSE"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LINES_OF_CODE: "True"
