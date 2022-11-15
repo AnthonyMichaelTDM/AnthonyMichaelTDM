@@ -4,20 +4,15 @@
 </p>
 
 
-<!--github stats-->
-### My activity
-
-<!-- github stats https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthonymichaeltdm&show_icons=true&locale=en&theme=github_dark&count_private=true" alt="anthonymichaeltdm" />
-</p>
-
 <!--trophies https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=anthonymichaeltdm&theme=gitdimmed&no-frame=true&no-bg=true&column=-1" alt="anthonymichaeltdm" />
   </a>
 </p>
+
+
+### My activity
 
 <!-- weekly activity https://github.com/AnthonyMichaelTDM/waka-readme-stats -->
 <!--START_SECTION:waka-->
@@ -83,6 +78,10 @@ QML                      2 repos             ██░░░░░░░░░�
  Last Updated on 15/11/2022 19:29:51 UTC
 <!--END_SECTION:waka-->
 
+<!-- github stats https://github.com/anuraghazra/github-readme-stats -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=anthonymichaeltdm&show_icons=true&locale=en&theme=github_dark&count_private=true" alt="anthonymichaeltdm" />
+</p>
 
 <!--favorite languages and tools, and most used langs-->
 ### Favorite Languages and Tools:
@@ -115,6 +114,10 @@ QML                      2 repos             ██░░░░░░░░░�
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
 </p>
+
+<!-- Pins https://github.com/anuraghazra/github-readme-stats -->
+### Noteworthy Projects
+
 
 
 <!--socials-->
