@@ -4,6 +4,9 @@
 </p>
 
 <!-- weekly activity -->
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 <!-- doesn't work rn
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@AnthonyMichaelTDM&locale=en&theme=github_dark" alt="anthonymichaeltdm" /></p>
 -->
