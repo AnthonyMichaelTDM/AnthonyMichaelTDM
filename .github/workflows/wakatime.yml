@@ -17,7 +17,7 @@ jobs:
           LOCALE: "en"
           COMMIT_EMAIL: "68485672+AnthonyMichaelTDM@users.noreply.github.com" # "41898282+github-actions[bot]@users.noreply.github.com"
           SHOW_UPDATED_DATE: "True"
-          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
+          UPDATED_DATE_FORMAT: "%M %d, %Y %H:%M:%S"
           SHOW_LINES_OF_CODE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
