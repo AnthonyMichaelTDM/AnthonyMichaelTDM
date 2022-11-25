@@ -159,6 +159,7 @@ QML                      2 repos             ██░░░░░░░░░�
     <summary>Click to expand</summary
     <p align="left">
       <a href="https://github.com/AnthonyMichaelTDM/DRG-Save-Editor"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMichaelTDM&repo=DRG-Save-Editor&show_owner=true" height="100"/></a>
+      <a href="https://github.com/AnthonyMichaelTDM/secret-santa-assignment.py"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMichaelTDM&repo=secret-santa-assignment.py&show_owner=true" height="100"/></a>
       <!-- uncomment when it become public
       <a href="https://github.com/AnthonyMichaelTDM/UCM-Orchard-Data-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMichaelTDM&repo=UCM-Orchard-Data-Analysis&show_owner=true" height="100"/></a>
       -->
