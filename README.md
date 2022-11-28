@@ -145,7 +145,7 @@ QML                      2 repos             ██░░░░░░░░░�
     <summary>Click to expand</summary>
     <p align="left">
       <a href="https://github.com/AnthonyMichaelTDM/AdventuresInRust"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMichaelTDM&repo=AdventuresInRust&show_owner=true" height="100"/></a>
-      <a href="https://github.com/AnthonyMichaelTDM/rust-cli-minesweeper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMichaelTDM&repo=AdventuresInRust&show_owner=true" height="100"/></a>
+      <a href="https://github.com/AnthonyMichaelTDM/rust-cli-minesweeper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMichaelTDM&repo=rust-cli-minesweeper&show_owner=true" height="100"/></a>
       <a href="https://github.com/AnthonyMichaelTDM/CLIA"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMichaelTDM&repo=CLIA&show_owner=true" height="100"/></a>
       <a href="https://github.com/AnthonyMichaelTDM/rust-script_update-album-artist-in-metadata"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMichaelTDM&repo=rust-script_update-album-artist-in-metadata&show_owner=true" height="100"/></a>
       <a href="https://github.com/AnthonyMichaelTDM/grep-directory"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMichaelTDM&repo=grep-directory&show_owner=true" height="100"/></a>
