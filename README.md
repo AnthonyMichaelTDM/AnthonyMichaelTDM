@@ -74,6 +74,12 @@ QML                      2 repos             ██░░░░░░░░░�
  Last Updated on 44 28, 2022 18:44:19 UTC
 <!--END_SECTION:waka-->
 
+**Streak 🔥**
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnthonyMichaelTDM&theme=github-dark&border_radius=20)](https://git.io/streak-stats)
+
+**GitHub Stats 💯**
+
 <!-- github stats https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=anthonymichaeltdm&show_icons=true&locale=en&theme=github_dark&count_private=true" alt="anthonymichaeltdm" />
