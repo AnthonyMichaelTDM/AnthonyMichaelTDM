@@ -149,6 +149,7 @@ QML                      2 repos             █░░░░░░░░░░�
   <details>
     <summary>Click to expand</summary>
     <p align="left">
+      <a href="https://github.com/Wulf/create-rust-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMichaelTDM&repo=create-rust-app&show_owner=true" height="100"/></a>
       <a href="https://github.com/AnthonyMichaelTDM/AdventuresInRust"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMichaelTDM&repo=AdventuresInRust&show_owner=true" height="100"/></a>
       <a href="https://github.com/AnthonyMichaelTDM/rust-cli-minesweeper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMichaelTDM&repo=rust-cli-minesweeper&show_owner=true" height="100"/></a>
       <a href="https://github.com/AnthonyMichaelTDM/CLIA"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMichaelTDM&repo=CLIA&show_owner=true" height="100"/></a>
