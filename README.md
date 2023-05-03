@@ -7,7 +7,18 @@
 <!--trophies https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anthonymichaeltdm&theme=gitdimmed&no-frame=true&no-bg=true&column=-1" alt="anthonymichaeltdm" />
+    <picture>
+      <source
+        srcset="https://github-profile-trophy.vercel.app/?username=anthonymichaeltdm&theme=gitdimmed&no-frame=true&no-bg=true&column=-1"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-profile-trophy.vercel.app/?username=anthonymichaeltdm&theme=_____&no-frame=true&no-bg=true&column=-1"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-profile-trophy.vercel.app/?username=anthonymichaeltdm&theme=gitdimmed&no-frame=true&no-bg=true&column=-1" alt="Anthony's Trophies" />
+    </picture>
+    <img src="https://github-profile-trophy.vercel.app/?username=anthonymichaeltdm&theme=gitdimmed&no-frame=true&no-bg=true&column=-1" alt="Anthony's Trophies" />
   </a>
 </div>
 
