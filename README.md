@@ -3,6 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=anthonymichaeltdm&label=Profile%20views&color=0e75b6&style=flat" alt="anthonymichaeltdm" /> 
 </p>
 
+# Anthony Rubick
 
 <!--trophies https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center"> 
