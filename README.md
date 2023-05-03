@@ -18,7 +18,6 @@
       />
       <img src="https://github-profile-trophy.vercel.app/?username=anthonymichaeltdm&theme=gitdimmed&no-frame=true&no-bg=true&column=-1" alt="Anthony's Trophies" />
     </picture>
-    <img src="https://github-profile-trophy.vercel.app/?username=anthonymichaeltdm&theme=gitdimmed&no-frame=true&no-bg=true&column=-1" alt="Anthony's Trophies" />
   </a>
 </div>
 
