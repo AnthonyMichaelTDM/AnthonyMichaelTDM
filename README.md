@@ -93,7 +93,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### Favorite Languages and Tools:
 <!--most used languages-->
 <p align="left" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=github_dark&langs_count=10&count_private=true&hide_title=true" alt="anthonymichaeltdm" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=github_dark&langs_count=10&count_private=true&hide_title=true?exclude=ros2-tutorials" alt="anthonymichaeltdm" />
 </p>
 
 <!--favorite tools and langs-->
