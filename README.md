@@ -5,12 +5,57 @@
 
 
 <!--trophies https://github.com/ryo-ma/github-profile-trophy -->
-<p align="left"> 
+<div align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=anthonymichaeltdm&theme=gitdimmed&no-frame=true&no-bg=true&column=-1" alt="anthonymichaeltdm" />
   </a>
-</p>
+</div>
 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=anthonymichaeltdm&show_icons=true&locale=en&theme=github_dark_dimmed&count_private=true&hide_border=true&include_all_commits=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=anthonymichaeltdm&show_icons=true&locale=en&theme=___&count_private=true&hide_border=true&include_all_commits=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=anthonymichaeltdm&show_icons=true&locale=en&theme=github_dark_dimmed&count_private=true&hide_border=true&include_all_commits=true" alt="Anthony's GitHub Stats" />
+    </picture>
+  </a>
+  
+  <!--most used languages-->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&langs_count=8&count_private=true&size_weight=0.5&count_weight=0.5&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=____&langs_count=8&count_private=true&size_weight=0.5&count_weight=0.5&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&langs_count=8&count_private=true&size_weight=0.5&count_weight=0.5&hide_border=true" alt="Most Used Languages" />
+    </picture>
+  </a>
+  
+  <!--streak https://git.io/streak-stats -->
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source
+        srcset="https://streak-stats.demolab.com?user=AnthonyMichaelTDM&theme=one-dark-pro&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://streak-stats.demolab.com?user=AnthonyMichaelTDM&theme=_____&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://streak-stats.demolab.com?user=AnthonyMichaelTDM&theme=one-dark-pro&hide_border=true" alt="GitHub Streak" />
+    </picture>
+  </a>
+</div>
 
 ### My activity
 
@@ -78,23 +123,8 @@ TypeScript               2 repos             █░░░░░░░░░░�
  Last Updated on 56 03, 2023 05:56:26 UTC
 <!--END_SECTION:waka-->
 
-### Streak 🔥
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnthonyMichaelTDM&theme=github-dark&border_radius=20)](https://git.io/streak-stats)
-
-### GitHub Stats 💯
-
-<!-- github stats https://github.com/anuraghazra/github-readme-stats -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthonymichaeltdm&show_icons=true&locale=en&theme=github_dark&count_private=true" alt="anthonymichaeltdm" />
-</p>
-
 <!--favorite languages and tools, and most used langs-->
 ### Favorite Languages and Tools:
-<!--most used languages-->
-<p align="left" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=github_dark&langs_count=10&count_private=true&hide_title=true?exclude=ros2-tutorials" alt="anthonymichaeltdm" />
-</p>
 
 <!--favorite tools and langs-->
 <p align="left"> 
