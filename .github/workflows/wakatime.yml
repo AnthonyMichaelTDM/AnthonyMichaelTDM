@@ -20,7 +20,7 @@ jobs:
           UPDATED_DATE_FORMAT: "%M %d, %Y %H:%M:%S"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "False"
-          SHOW_PROFILE_VIEWS: "False"
+          SHOW_PROFILE_VIEWS: "True"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
           SHOW_OS: "True"
