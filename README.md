@@ -85,6 +85,10 @@
 
 # My activity
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <!-- weekly activity https://github.com/AnthonyMichaelTDM/waka-readme-stats -->
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
