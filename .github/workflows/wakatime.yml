@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    # Runs every 12 hours
+    - cron: '30 */12 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -18,7 +18,7 @@ jobs:
           COMMIT_EMAIL: "68485672+AnthonyMichaelTDM@users.noreply.github.com" # "41898282+github-actions[bot]@users.noreply.github.com"
           SHOW_UPDATED_DATE: "True"
           UPDATED_DATE_FORMAT: "%M %d, %Y %H:%M:%S"
-          SHOW_LINES_OF_CODE: "False"
+          SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "True"
