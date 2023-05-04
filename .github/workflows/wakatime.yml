@@ -38,9 +38,10 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "en"
-          COMMIT_EMAIL: "68485672+AnthonyMichaelTDM@users.noreply.github.com" # "41898282+github-actions[bot]@users.noreply.github.com"
+          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com" # "68485672+AnthonyMichaelTDM@users.noreply.github.com"
           SHOW_UPDATED_DATE: "False"
           SHOW_LINES_OF_CODE: "True"
+          IGNORED_REPOS: "ros2-tutorials, edu-st, my-crispy-arcolinux-configs"
           SECTION_NAME: "loc"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
