@@ -146,7 +146,7 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:loc-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.5%20million%20lines%20of%20code-blue)
 
 
 <!--END_SECTION:loc-->
