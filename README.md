@@ -75,14 +75,14 @@ I prodominantly use Rust and Python tech stacks.
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&langs_count=8&count_private=true&size_weight=0.5&count_weight=0.5&hide_border=true"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&count_private=true&size_weight=0.5&count_weight=0.5&hide_border=true"
         media="(prefers-color-scheme: dark)"
       />
       <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=____&langs_count=8&count_private=true&size_weight=0.5&count_weight=0.5&hide_border=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&langs_count=8&count_private=true&size_weight=0.5&count_weight=0.5&hide_border=true" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&count_private=true&size_weight=0.5&count_weight=0.5&hide_border=true" alt="Most Used Languages" />
     </picture>
   </a>
 
