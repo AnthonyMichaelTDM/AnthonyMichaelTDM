@@ -47,7 +47,33 @@
     </picture>
   </a>
   
-  <!--most used languages-->
+  <!--streak https://git.io/streak-stats -->
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source
+        srcset="https://streak-stats.demolab.com?user=AnthonyMichaelTDM&theme=github_dark_dimmed&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://streak-stats.demolab.com?user=AnthonyMichaelTDM&theme=_____&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://streak-stats.demolab.com?user=AnthonyMichaelTDM&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" />
+    </picture>
+  </a>
+</div>
+
+<!--favorite languages and tools, and most used langs-->
+## 💻 Tech Stack:
+
+I prodominantly use Rust and Python tech stacks.
+
+### 📋 Languages
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<!--most used languages-->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
       <source
@@ -61,27 +87,29 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&langs_count=8&count_private=true&size_weight=0.5&count_weight=0.5&hide_border=true" alt="Most Used Languages" />
     </picture>
   </a>
-  
-  <!--streak https://git.io/streak-stats -->
-  <a href="https://git.io/streak-stats">
-    <picture>
-      <source
-        srcset="https://streak-stats.demolab.com?user=AnthonyMichaelTDM&theme=one-dark-pro&hide_border=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://streak-stats.demolab.com?user=AnthonyMichaelTDM&theme=_____&hide_border=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://streak-stats.demolab.com?user=AnthonyMichaelTDM&theme=one-dark-pro&hide_border=true" alt="GitHub Streak" />
-    </picture>
-  </a>
-</div>
 
-<!--favorite languages and tools, and most used langs-->
-## 💻 Tech Stack:
+### 💾 Databases
 
-[![My Skills](https://skillicons.dev/icons?i=rust,actix,aws,github,githubactions,git,linux,bash,cpp,docker,java,latex,md,neovim,postgres,py,regex,vscode&theme=dark&perline=6)](https://skillicons.dev#gh-dark-mode-only)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)
+
+### 📚 Frameworks and Libraries
+
+![Actix web](https://img.shields.io/badge/Actix-000?logo=actix&logoColor=fff&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### <code><img width="20" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code> CI/CD
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 💻 IDEs/Editors
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 # My activity
 
