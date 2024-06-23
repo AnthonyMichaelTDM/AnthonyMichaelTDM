@@ -1,6 +1,4 @@
 
-![Profile Views](https://komarev.com/ghpvc/?username=anthonymichaeltdm&label=Profile%20views&color=0e75b6&style=flat)
-
 <!--profile banner-->
 <div align="center">
   <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Anthony%20Rubick&width=800&height=150" />
@@ -179,3 +177,6 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:loc-->
+
+![Profile Views](https://komarev.com/ghpvc/?username=anthonymichaeltdm&label=Profile%20views&color=0e75b6&style=flat)
+
