@@ -64,7 +64,7 @@
 <!--favorite languages and tools, and most used langs-->
 ## 💻 Tech Stack:
 
-I prodominantly use Rust and Python tech stacks.
+I prodominantly use Rust and Python tech stacks, but have experience working on C++ and Java codebases as well.
 
 ### 📋 Languages
 
@@ -95,6 +95,8 @@ I prodominantly use Rust and Python tech stacks.
 
 ![Actix web](https://img.shields.io/badge/Actix-000?logo=actix&logoColor=fff&style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### <code><img width="20" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code> CI/CD
 
@@ -107,6 +109,7 @@ I prodominantly use Rust and Python tech stacks.
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Helix](https://img.shields.io/badge/Helix-%2328153e.svg?style=for-the-badge&logo=helix&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 # My activity
