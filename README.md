@@ -64,7 +64,7 @@
 <!--favorite languages and tools, and most used langs-->
 ## 💻 Tech Stack:
 
-I prodominantly use Rust and Python tech stacks, but have experience working on C++ and Java codebases as well.
+I prodominantly use Rust and Python tech stacks, but have experience working on Go, C++, and Java codebases as well.
 
 ### 📋 Languages
 
