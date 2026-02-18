@@ -2,11 +2,11 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 */12 * * *"}]
+  schedule: [{cron: "0 9 * * *"}]
   # Lines below let you run workflow manually
   workflow_dispatch:
 jobs:
-  github-metrics-left:
+  github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -34,11 +34,11 @@ jobs:
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories
           repositories_batch: 70
-  github-metrics-right:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
+  # github-metrics-right:
+  #   runs-on: ubuntu-latest
+  #   permissions:
+  #     contents: write
+  #   steps:
       - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
