@@ -29,13 +29,14 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
-          config_display: columns
           config_timezone: America/Chicago
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+          plugin_followup_sections: repositories
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_traffic: yes
           repositories_batch: 70
   github-metrics-right:
     runs-on: ubuntu-latest
