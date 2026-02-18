@@ -37,11 +37,11 @@ jobs:
           plugin_lines_sections: base
           plugin_traffic: yes
           repositories_batch: 70
-  # github-metrics-right:
-  #   runs-on: ubuntu-latest
-  #   permissions:
-  #     contents: write
-  #   steps:
+  github-metrics-right:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
       - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
