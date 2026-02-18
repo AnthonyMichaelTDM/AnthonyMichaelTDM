@@ -10,7 +10,7 @@
   </a>
 </div>
 
-![](/github-metrics.svg)
+<img src="/github-metrics-left.svg" align="center"><img src="/github-metrics-right.svg" align="right">
 
 I'm Anthony, a Master's student at Rice studying Computational and Applied Mathematics. I have a strong CS background and have built production ML backends serving thousands of users, led full development lifecycles from architecture to deployment, and love diving deep into systems: from GPU simulation research to running my own homelab.
 
