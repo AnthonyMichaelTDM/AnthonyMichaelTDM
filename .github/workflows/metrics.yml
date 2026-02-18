@@ -22,7 +22,7 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: ./assets/github-metrics-left.svg
+          filename: github-metrics-left.svg
           
           # Options
           user: AnthonyMichaelTDM
@@ -42,7 +42,7 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: ./assets/github-metrics-right.svg
+          filename: github-metrics-right.svg
           
           # Options
           user: AnthonyMichaelTDM
