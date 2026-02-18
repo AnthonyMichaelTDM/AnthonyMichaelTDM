@@ -35,21 +35,6 @@ For a full list, see [this github search](https://github.com/search?q=is%3Apr+-u
 
 I prodominantly use Rust and Python tech stacks, but have experience working on Go, C++, and Java codebases as well.
 
-<!--most used languages-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&count_private=true&size_weight=0.5&count_weight=0.5&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=____&langs_count=8&count_private=true&size_weight=0.5&count_weight=0.5&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymichaeltdm&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&count_private=true&size_weight=0.5&count_weight=0.5&hide_border=true" alt="Most Used Languages" />
-  </picture>
-</a>
-
 ### 💻 Operating Systems
 
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://wiki.archlinux.org/title/Main_page)
@@ -159,10 +144,10 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-# 📊 GitHub Stats:
+## misc
 
 <!--trophies https://github.com/ryo-ma/github-profile-trophy -->
-<div align="center"> 
+<!-- <div align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <picture>
       <source
@@ -176,10 +161,10 @@ TeX                      1 repo              ░░░░░░░░░░░�
       <img src="https://github-profile-trophy.vercel.app/?username=anthonymichaeltdm&theme=gitdimmed&no-frame=true&no-bg=true&column=-1" alt="Anthony's Trophies" />
     </picture>
   </a>
-</div>
+</div> -->
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=anthonymichaeltdm&show_icons=true&locale=en&theme=github_dark_dimmed&count_private=true&hide_border=true&include_all_commits=true"
@@ -191,7 +176,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
       />
       <img src="https://github-readme-stats.vercel.app/api?username=anthonymichaeltdm&show_icons=true&locale=en&theme=github_dark_dimmed&count_private=true&hide_border=true&include_all_commits=true" alt="Anthony's GitHub Stats" />
     </picture>
-  </a>
+  </a> -->
   
   <!--streak https://git.io/streak-stats -->
   <a href="https://git.io/streak-stats">
