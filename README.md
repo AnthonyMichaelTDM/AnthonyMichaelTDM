@@ -20,8 +20,8 @@ I'm Anthony, a Master's student at Rice studying Computational and Applied Mathe
 In addition to the many repos I've created, I'm also a maintainer of the following:
 
 - The plugin system of [Zoraxy](https://github.com/tobychui/zoraxy): A general purpose HTTP reverse proxy and forwarding tool.
-- [Tsync](https://github.com/Wulf/tsync): Synchronize rust and typescript types!
-- [Create Rust App](https://github.com/Wulf/create-rust-app): Set up a modern rust+react web app by running one command. 
+- [tsync](https://github.com/Wulf/tsync): Synchronize rust and typescript types!
+- [create-rust-app](https://github.com/Wulf/create-rust-app): Set up a modern rust+react web app by running one command. 
 
 I've also made (what I would consider substaintial) contributions to:
 
