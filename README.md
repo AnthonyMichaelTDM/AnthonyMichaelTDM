@@ -1,7 +1,7 @@
 <!--profile banner-->
-<div align="center">
+<!-- <div align="center">
   <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Anthony%20Rubick&width=800&height=150" />
-</div>
+</div> -->
 
 <!--profile views-->
 <div align="center">
@@ -10,7 +10,10 @@
   </a>
 </div>
 
+![Metrics](/github-metrics.svg)
+
 I'm Anthony, a Master's student at Rice studying Computational and Applied Mathematics. I have a strong CS background and have built production ML backends serving thousands of users, led full development lifecycles from architecture to deployment, and love diving deep into systems: from GPU simulation research to running my own homelab.
+
 
 ## Contributions
 
