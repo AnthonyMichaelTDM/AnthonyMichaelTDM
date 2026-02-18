@@ -10,7 +10,7 @@
   </a>
 </div>
 
-![Metrics](/github-metrics.svg)
+![](/github-metrics.svg)
 
 I'm Anthony, a Master's student at Rice studying Computational and Applied Mathematics. I have a strong CS background and have built production ML backends serving thousands of users, led full development lifecycles from architecture to deployment, and love diving deep into systems: from GPU simulation research to running my own homelab.
 
@@ -101,10 +101,6 @@ This is not an exhaustive list.
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
 
 # My activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 <!-- weekly activity https://github.com/AnthonyMichaelTDM/waka-readme-stats -->
 <!--START_SECTION:waka-->
