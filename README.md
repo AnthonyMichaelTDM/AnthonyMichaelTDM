@@ -195,10 +195,12 @@ TeX                      1 repo              ░░░░░░░░░░░�
 </div>
 
 <!--START_SECTION:loc-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.89%20million%20lines%20of%20code-blue?style=flat)
+<!--![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.89%20million%20lines%20of%20code-blue?style=flat)
 
 
 <!--END_SECTION:loc-->
 
+<!--
 <img src="https://gitranks.com/api/badge/v2/AnthonyMichaelTDM?ranking=s&context=global&type=position&meta=percentile&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237f5539" /><img src="https://gitranks.com/api/badge/v2/AnthonyMichaelTDM?ranking=c&context=global&type=position&meta=percentile&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237f5539" /><img src="https://gitranks.com/api/badge/v2/AnthonyMichaelTDM?ranking=f&context=global&type=position&meta=percentile&label=Followers+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237f5539" />
+-->
 
