@@ -33,10 +33,6 @@ jobs:
           plugin_followup: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
           repositories_batch: 70
   github-metrics-right:
     runs-on: ubuntu-latest
