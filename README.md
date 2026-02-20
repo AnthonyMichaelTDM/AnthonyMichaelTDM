@@ -55,7 +55,7 @@ I daily-drive [Arch](https://github.com/AnthonyMichaelTDM/arconet-leftwm), and u
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)](https://surrealdb.com/)
 
-### 📚 Frameworks and Libraries
+### 📚 Favorite Frameworks and Libraries
 
 [![Actix web](https://img.shields.io/badge/Actix-000?logo=actix&logoColor=fff&style=for-the-badge)](https://actix.rs/)
 [![Tokio](https://img.shields.io/badge/tokio-000?style=for-the-badge&logo=tokio&logoColor=white&color=black)](https://tokio.rs/)
