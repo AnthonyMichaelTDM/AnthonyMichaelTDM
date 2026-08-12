@@ -89,21 +89,21 @@ This is not an exhaustive list.
 
 <!-- weekly activity https://github.com/AnthonyMichaelTDM/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%208%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2067 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+🌞 Morning                2068 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 🌆 Daytime                5591 commits        ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-🌃 Evening                10804 commits       ███████████░░░░░░░░░░░░░░   43.89 % 
+🌃 Evening                10804 commits       ███████████░░░░░░░░░░░░░░   43.88 % 
 🌙 Night                  6156 commits        ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   3759 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Tuesday                  2961 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Tuesday                  2962 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
 Wednesday                3956 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
 Thursday                 3537 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 Friday                   4218 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
@@ -116,19 +116,39 @@ Sunday                   2727 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       26 mins             ███████████░░░░░░░░░░░░░░   44.47 % 
+Markdown                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+YAML                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  59 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    59 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 38 mins (65.84%)
+
+✍️ 3 lines written by AI, 419 lines written by hand (0.71% AI-written)
+
+🔤 112,843 Input Tokens, 474 Output Tokens
+
+💵 $0.35 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 3 AI Prompts
+
+Github-Copilot           3 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.71% of written lines came from AI
+📝 Concise Prompter — average 80 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 99.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -144,7 +164,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13 11, 2026 14:13:39 UTC
+ Last Updated on 16 12, 2026 03:16:47 UTC
 <!--END_SECTION:waka-->
 
 
