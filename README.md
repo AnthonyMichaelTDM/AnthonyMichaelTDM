@@ -89,26 +89,26 @@ This is not an exhaustive list.
 
 <!-- weekly activity https://github.com/AnthonyMichaelTDM/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2051%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2093 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-🌆 Daytime                5680 commits        ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-🌃 Evening                10904 commits       ███████████░░░░░░░░░░░░░░   43.60 % 
-🌙 Night                  6335 commits        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+🌞 Morning                1997 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+🌆 Daytime                5149 commits        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+🌃 Evening                10384 commits       ███████████░░░░░░░░░░░░░░   43.80 % 
+🌙 Night                  6177 commits        ███████░░░░░░░░░░░░░░░░░░   26.06 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   3814 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Tuesday                  3033 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Wednesday                4035 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Thursday                 3588 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Friday                   4251 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Saturday                 3490 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Sunday                   2801 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Monday                   3608 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Tuesday                  2908 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Wednesday                3880 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Thursday                 3440 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Friday                   4146 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Saturday                 3349 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Sunday                   2376 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
 ```
 
 
@@ -116,20 +116,40 @@ Sunday                   2801 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 8 mins        ████████████████████████░   97.82 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Markdown                 12 hrs 47 mins      ████████████████████████░   96.81 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Chrome                   5 hrs 15 mins       █████████████████████████   100.00 % 
+Chrome                   11 hrs 53 mins      ██████████████████████░░░   89.98 % 
+VS Code                  55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Copilot CLI              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 💻 Operating System: 
-Linux                    5 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    13 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 44 mins (5.63%)
+
+✍️ 0 lines written by AI, 455 lines written by hand (0.0% AI-written)
+
+🔤 6,240 Input Tokens, 7,623 Output Tokens
+
+💵 $0.07 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 21 AI Prompts
+
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 46 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -145,7 +165,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15 10, 2026 05:15:52 UTC
+ Last Updated on 53 10, 2026 16:53:29 UTC
 <!--END_SECTION:waka-->
 
 
