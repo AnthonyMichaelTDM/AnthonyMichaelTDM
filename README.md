@@ -94,21 +94,21 @@ This is not an exhaustive list.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2096 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-🌆 Daytime                5708 commits        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-🌃 Evening                10928 commits       ███████████░░░░░░░░░░░░░░   43.47 % 
-🌙 Night                  6408 commits        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+🌞 Morning                2095 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+🌆 Daytime                5670 commits        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+🌃 Evening                10875 commits       ███████████░░░░░░░░░░░░░░   43.47 % 
+🌙 Night                  6379 commits        ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   3835 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Tuesday                  3059 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Wednesday                4070 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Thursday                 3613 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Friday                   4254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Saturday                 3492 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Sunday                   2817 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Monday                   3800 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Tuesday                  3039 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Wednesday                4059 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Thursday                 3594 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Friday                   4243 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Saturday                 3484 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Sunday                   2800 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 ```
 
 
@@ -116,44 +116,44 @@ Sunday                   2817 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 11 hrs 23 mins      ███████████░░░░░░░░░░░░░░   43.87 % 
-C++                      10 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   40.38 % 
-C                        3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Makefile                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+C++                      10 hrs 29 mins      ██████████████░░░░░░░░░░░   54.71 % 
+Markdown                 5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+C                        3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Makefile                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 31 mins      ███████████████░░░░░░░░░░   59.77 % 
-Chrome                   9 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.86 % 
-Copilot CLI              36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+VS Code                  14 hrs 12 mins      ███████████████████░░░░░░   74.18 % 
+Chrome                   4 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+Copilot CLI              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 💻 Operating System: 
-Linux                    25 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 59 mins (19.24%)
+⏱ AI Coding Time: 4 hrs 16 mins (22.28%)
 
-✍️ 128 lines written by AI, 2,355 lines written by hand (5.16% AI-written)
+✍️ 118 lines written by AI, 1,753 lines written by hand (6.31% AI-written)
 
 🔤 963,908 Input Tokens, 18,201 Output Tokens
 
-💵 $3.01 Estimated AI Cost This Week
+💵 $2.88 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 61 AI Prompts
+🧠 7 AI Sessions, 45 AI Prompts
 
-Sonnet                   83 lines            █████████████░░░░░░░░░░░░   52.20 % 
-Gemini                   62 lines            ██████████░░░░░░░░░░░░░░░   38.99 % 
-GPT                      9 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Github-Copilot           5 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Sonnet                   73 lines            ████████████░░░░░░░░░░░░░   48.99 % 
+Gemini                   62 lines            ██████████░░░░░░░░░░░░░░░   41.61 % 
+GPT                      9 lines             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Github-Copilot           5 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.16% of written lines came from AI
-📝 Concise Prompter — average 89 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 97.71% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 6.31% of written lines came from AI
+📝 Concise Prompter — average 94 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 95.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -169,7 +169,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13 18, 2026 05:13:07 UTC
+ Last Updated on 54 18, 2026 16:54:47 UTC
 <!--END_SECTION:waka-->
 
 
