@@ -91,73 +91,6 @@ This is not an exhaustive list.
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2020%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2104 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-🌆 Daytime                5659 commits        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
-🌃 Evening                10856 commits       ███████████░░░░░░░░░░░░░░   43.48 % 
-🌙 Night                  6350 commits        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   3823 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Tuesday                  3039 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Wednesday                4073 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Thursday                 3618 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Friday                   4223 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Saturday                 3452 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Sunday                   2741 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 18 hrs 23 mins      █████████████░░░░░░░░░░░░   50.88 % 
-Python                   9 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-C++                      4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-C                        1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Other                    1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-
-🔥 Editors: 
-VS Code                  18 hrs 3 mins       ████████████░░░░░░░░░░░░░   49.96 % 
-Chrome                   15 hrs 57 mins      ███████████░░░░░░░░░░░░░░   44.16 % 
-Copilot CLI              2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Copilot                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-
-💻 Operating System: 
-Linux                    36 hrs 9 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 47 mins (18.79%)
-
-✍️ 320 lines written by AI, 17,168 lines written by hand (1.83% AI-written)
-
-🔤 1,671,497 Input Tokens, 67,349 Output Tokens
-
-💵 $6.94 Estimated AI Cost This Week
-
-🧠 23 AI Sessions, 102 AI Prompts
-
-GPT                      196 lines           ███████████████░░░░░░░░░░   60.49 % 
-Sonnet                   122 lines           █████████░░░░░░░░░░░░░░░░   37.65 % 
-Github-Copilot           6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.83% of written lines came from AI
-📝 Concise Prompter — average 202 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 99.09% of changed lines were hand-edited
-```
-
 **I Mostly Code in Rust** 
 
 ```text
@@ -171,7 +104,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13 02, 2026 06:13:48 UTC
+ Last Updated on 16 02, 2026 18:16:42 UTC
 <!--END_SECTION:waka-->
 
 
