@@ -97,7 +97,7 @@ This is not an exhaustive list.
 🌞 Morning                2103 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 🌆 Daytime                5622 commits        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
 🌃 Evening                10803 commits       ███████████░░░░░░░░░░░░░░   43.47 % 
-🌙 Night                  6321 commits        ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+🌙 Night                  6322 commits        ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
@@ -107,7 +107,7 @@ Tuesday                  3019 commits        ███░░░░░░░░�
 Wednesday                4062 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
 Thursday                 3599 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
 Friday                   4213 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Saturday                 3444 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Saturday                 3445 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 Sunday                   2724 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 ```
 
@@ -116,33 +116,33 @@ Sunday                   2724 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 18 hrs 48 mins      ████████████████░░░░░░░░░   62.15 % 
-Python                   9 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.50 % 
-Other                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Makefile                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-TeX                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Python                   9 hrs 50 mins       ████████████░░░░░░░░░░░░░   48.24 % 
+Markdown                 9 hrs 31 mins       ████████████░░░░░░░░░░░░░   46.76 % 
+Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Makefile                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TeX                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Chrome                   16 hrs 59 mins      ██████████████░░░░░░░░░░░   56.14 % 
-VS Code                  11 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   38.36 % 
-Copilot CLI              1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+VS Code                  10 hrs 5 mins       ████████████░░░░░░░░░░░░░   49.53 % 
+Chrome                   8 hrs 53 mins       ███████████░░░░░░░░░░░░░░   43.60 % 
+Copilot CLI              1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 
 💻 Operating System: 
-Linux                    30 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 4 mins (16.76%)
+⏱ AI Coding Time: 4 hrs 26 mins (21.81%)
 
-✍️ 122 lines written by AI, 16,441 lines written by hand (0.74% AI-written)
+✍️ 122 lines written by AI, 15,988 lines written by hand (0.76% AI-written)
 
 🔤 1,622,652 Input Tokens, 246,477 Output Tokens
 
 💵 $4.10 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 77 AI Prompts
+🧠 19 AI Sessions, 62 AI Prompts
 
 Sonnet                   122 lines           █████████████████████████   99.19 % 
 GPT                      1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
@@ -150,10 +150,10 @@ Code                     0 lines             ░░░░░░░░░░░�
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.74% of written lines came from AI
-📝 Concise Prompter — average 244 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 99.64% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.76% of written lines came from AI
+📝 Concise Prompter — average 289 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 99.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -169,7 +169,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 50 03, 2026 05:50:41 UTC
+ Last Updated on 50 03, 2026 16:50:45 UTC
 <!--END_SECTION:waka-->
 
 
