@@ -97,7 +97,7 @@ This is not an exhaustive list.
 🌞 Morning                2105 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 🌆 Daytime                5663 commits        ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
 🌃 Evening                10856 commits       ███████████░░░░░░░░░░░░░░   43.46 % 
-🌙 Night                  6356 commits        ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+🌙 Night                  6357 commits        ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
@@ -105,7 +105,7 @@ This is not an exhaustive list.
 Monday                   3824 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
 Tuesday                  3041 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
 Wednesday                4075 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Thursday                 3618 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Thursday                 3619 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
 Friday                   4225 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
 Saturday                 3454 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
 Sunday                   2743 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
@@ -116,43 +116,41 @@ Sunday                   2743 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 hrs 34 mins      ████████████████░░░░░░░░░   62.87 % 
-C++                      3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Python                   3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Makefile                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Markdown                 11 hrs 27 mins      ██████████████████░░░░░░░   72.15 % 
+C++                      3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+C                        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Makefile                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 14 mins      ███████████████░░░░░░░░░░   61.37 % 
-VS Code                  7 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.09 % 
-Copilot CLI              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Chrome                   10 hrs 55 mins      █████████████████░░░░░░░░   68.84 % 
+VS Code                  4 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.45 % 
+Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Linux                    21 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 37 mins (12.14%)
+⏱ AI Coding Time: 1 hr 14 mins (7.77%)
 
-✍️ 247 lines written by AI, 2,036 lines written by hand (10.82% AI-written)
+✍️ 125 lines written by AI, 1,008 lines written by hand (11.03% AI-written)
 
-🔤 1,742,493 Input Tokens, 73,700 Output Tokens
+🔤 755,470 Input Tokens, 6,900 Output Tokens
 
-💵 $5.76 Estimated AI Cost This Week
+💵 $2.37 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 38 AI Prompts
+🧠 2 AI Sessions, 17 AI Prompts
 
-Github-Copilot           125 lines           █████████████░░░░░░░░░░░░   50.61 % 
-Sonnet                   122 lines           ████████████░░░░░░░░░░░░░   49.39 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           125 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.82% of written lines came from AI
-📝 Concise Prompter — average 435 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 94.09% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 11.03% of written lines came from AI
+📝 Concise Prompter — average 92 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 93.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -168,7 +166,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 41 08, 2026 06:41:50 UTC
+ Last Updated on 15 08, 2026 19:15:23 UTC
 <!--END_SECTION:waka-->
 
 
