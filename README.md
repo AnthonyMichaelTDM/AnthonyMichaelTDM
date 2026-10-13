@@ -91,20 +91,78 @@ This is not an exhaustive list.
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2034%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2105 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+🌆 Daytime                5692 commits        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+🌃 Evening                10747 commits       ███████████░░░░░░░░░░░░░░   43.04 % 
+🌙 Night                  6426 commits        ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   3845 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Tuesday                  3065 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Wednesday                4109 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Thursday                 3641 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Friday                   4228 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Saturday                 3456 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Sunday                   2626 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 7 hrs 58 mins       ████████████████████████░   94.02 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+Chrome                   7 hrs 48 mins       ███████████████████████░░   92.18 % 
+VS Code                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+
+💻 Operating System: 
+Linux                    8 hrs 28 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 mins (1.64%)
+
+✍️ 0 lines written by AI, 165 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 95 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     30 repos            █████████░░░░░░░░░░░░░░░░   37.04 % 
-Python                   16 repos            █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Shell                    8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Rust                     30 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
+Python                   15 repos            █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Shell                    8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 
 
 
 
- Last Updated on 38 12, 2026 21:38:50 UTC
+ Last Updated on 14 13, 2026 07:14:23 UTC
 <!--END_SECTION:waka-->
 
 
