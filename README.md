@@ -89,72 +89,7 @@ This is not an exhaustive list.
 
 <!-- weekly activity https://github.com/AnthonyMichaelTDM/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2045%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2184 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-🌆 Daytime                6444 commits        ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-🌃 Evening                12254 commits       ███████████░░░░░░░░░░░░░░   43.23 % 
-🌙 Night                  7464 commits        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   4352 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Tuesday                  3562 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Wednesday                4642 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Thursday                 4179 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Friday                   4661 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Saturday                 3969 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Sunday                   2981 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Rust                     14 hrs 41 mins      ████████████░░░░░░░░░░░░░   48.22 % 
-Markdown                 6 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-TOML                     3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Go                       3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-
-🔥 Editors: 
-VS Code                  21 hrs 38 mins      ██████████████████░░░░░░░   71.03 % 
-Copilot CLI              5 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Obsidian                 3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-
-💻 Operating System: 
-Linux                    30 hrs 28 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 7 hrs 43 mins (25.37%)
-
-✍️ 406 lines written by AI, 2,695 lines written by hand (13.09% AI-written)
-
-🔤 5,112,406 Input Tokens, 568,126 Output Tokens
-
-💵 $27.19 Estimated AI Cost This Week
-
-🧠 17 AI Sessions, 96 AI Prompts
-
-Opus                     192 lines           ████████████░░░░░░░░░░░░░   46.04 % 
-Sonnet                   160 lines           ██████████░░░░░░░░░░░░░░░   38.37 % 
-GPT                      65 lines            ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 13.09% of written lines came from AI
-📝 Concise Prompter — average 157 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 94.05% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%208%20mins-blue?style=flat)
 
 **I Mostly Code in Rust** 
 
@@ -169,7 +104,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16 01, 2026 18:16:11 UTC
+ Last Updated on 21 06, 2026 03:21:16 UTC
 <!--END_SECTION:waka-->
 
 
