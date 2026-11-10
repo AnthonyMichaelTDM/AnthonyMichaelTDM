@@ -89,7 +89,7 @@ This is not an exhaustive list.
 
 <!-- weekly activity https://github.com/AnthonyMichaelTDM/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%203%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -97,13 +97,13 @@ This is not an exhaustive list.
 🌞 Morning                2085 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 🌆 Daytime                5605 commits        ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
 🌃 Evening                10849 commits       ███████████░░░░░░░░░░░░░░   43.89 % 
-🌙 Night                  6177 commits        ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+🌙 Night                  6178 commits        ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   3704 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Tuesday                  3150 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Tuesday                  3151 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 Wednesday                4015 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
 Thursday                 3536 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 Friday                   4155 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
@@ -116,42 +116,42 @@ Sunday                   2696 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     28 hrs 36 mins      ███████████░░░░░░░░░░░░░░   43.79 % 
-Markdown                 22 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   34.25 % 
-Python                   8 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Other                    3 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Markdown                 24 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   38.23 % 
+Rust                     23 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   35.84 % 
+Python                   10 hrs 23 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Other                    4 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 TOML                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-VS Code                  38 hrs 26 mins      ███████████████░░░░░░░░░░   58.83 % 
-Obsidian                 23 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   36.53 % 
-Copilot CLI              3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+VS Code                  35 hrs 16 mins      █████████████░░░░░░░░░░░░   53.98 % 
+Obsidian                 27 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   41.67 % 
+Copilot CLI              2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 💻 Operating System: 
-Linux                    65 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    65 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 44 mins (7.26%)
+⏱ AI Coding Time: 4 hrs 49 mins (7.38%)
 
-✍️ 997 lines written by AI, 43,935 lines written by hand (2.22% AI-written)
+✍️ 47 lines written by AI, 43,150 lines written by hand (0.11% AI-written)
 
-🔤 8,646,749 Input Tokens, 394,227 Output Tokens
+🔤 8,542,106 Input Tokens, 378,816 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 47 AI Prompts
+🧠 10 AI Sessions, 43 AI Prompts
 
-GPT                      1,695 lines         █████████████████████████   98.03 % 
-Sonnet                   34 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+GPT                      47 lines            ███████████████░░░░░░░░░░   58.02 % 
+Sonnet                   34 lines            ██████████░░░░░░░░░░░░░░░   41.98 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.22% of written lines came from AI
-📝 Concise Prompter — average 115 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.11% of written lines came from AI
+📝 Concise Prompter — average 377 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 98.22% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -167,7 +167,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 50 10, 2026 07:50:51 UTC
+ Last Updated on 10 10, 2026 20:10:03 UTC
 <!--END_SECTION:waka-->
 
 
