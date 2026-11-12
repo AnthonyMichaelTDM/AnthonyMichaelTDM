@@ -97,7 +97,7 @@ This is not an exhaustive list.
 🌞 Morning                2085 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 🌆 Daytime                5607 commits        ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
 🌃 Evening                10849 commits       ███████████░░░░░░░░░░░░░░   43.89 % 
-🌙 Night                  6179 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌙 Night                  6180 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
@@ -105,7 +105,7 @@ This is not an exhaustive list.
 Monday                   3704 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
 Tuesday                  3152 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 Wednesday                4017 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Thursday                 3536 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Thursday                 3537 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 Friday                   4155 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
 Saturday                 3460 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
 Sunday                   2696 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
@@ -116,36 +116,35 @@ Sunday                   2696 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 25 hrs 3 mins       ████████████░░░░░░░░░░░░░   47.07 % 
-Rust                     11 hrs 43 mins      ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-Python                   10 hrs 37 mins      █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Other                    4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-TOML                     1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Markdown                 22 hrs 40 mins      █████████████░░░░░░░░░░░░   53.22 % 
+Python                   10 hrs 37 mins      ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+Rust                     4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Other                    4 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+TOML                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-Obsidian                 27 hrs 18 mins      █████████████░░░░░░░░░░░░   51.29 % 
-VS Code                  23 hrs 14 mins      ███████████░░░░░░░░░░░░░░   43.67 % 
-Copilot CLI              2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Obsidian                 24 hrs 38 mins      ██████████████░░░░░░░░░░░   57.86 % 
+VS Code                  15 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   35.84 % 
+Copilot CLI              2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 💻 Operating System: 
-Linux                    53 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    42 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 12 mins (7.91%)
+⏱ AI Coding Time: 4 hrs 12 mins (9.88%)
 
-✍️ 0 lines written by AI, 41,791 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 40,940 lines written by hand (0.0% AI-written)
 
-🔤 8,409,908 Input Tokens, 387,606 Output Tokens
+🔤 1,307,664 Input Tokens, 154,032 Output Tokens
 
-💵 $0.31 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 36 AI Prompts
+🧠 8 AI Sessions, 36 AI Prompts
 
 Sonnet                   34 lines            █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -167,7 +166,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 45 12, 2026 07:45:43 UTC
+ Last Updated on 31 12, 2026 20:31:00 UTC
 <!--END_SECTION:waka-->
 
 
