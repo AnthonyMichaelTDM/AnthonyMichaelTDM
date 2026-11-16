@@ -97,12 +97,12 @@ This is not an exhaustive list.
 🌞 Morning                2085 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 🌆 Daytime                5620 commits        ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
 🌃 Evening                10886 commits       ███████████░░░░░░░░░░░░░░   43.91 % 
-🌙 Night                  6199 commits        ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+🌙 Night                  6200 commits        ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   3722 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Monday                   3723 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
 Tuesday                  3153 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 Wednesday                4029 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
 Thursday                 3550 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
@@ -116,39 +116,39 @@ Sunday                   2700 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 14 hrs 29 mins      ███████████████████░░░░░░   76.44 % 
-Other                    2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Python                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Makefile                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Markdown                 7 hrs 39 mins       █████████████████░░░░░░░░   69.41 % 
+Python                   2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Other                    1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Makefile                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Obsidian                 15 hrs 2 mins       ████████████████████░░░░░   79.33 % 
-VS Code                  2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Copilot CLI              1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Obsidian                 7 hrs 43 mins       █████████████████░░░░░░░░   69.99 % 
+VS Code                  2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+Copilot CLI              51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 
 💻 Operating System: 
-Linux                    18 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 7 mins (11.19%)
+⏱ AI Coding Time: 1 hr 48 mins (16.32%)
 
-✍️ 0 lines written by AI, 2,924 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,320 lines written by hand (0.0% AI-written)
 
 🔤 1,307,664 Input Tokens, 154,032 Output Tokens
 
 💵 $0.31 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 25 AI Prompts
+🧠 4 AI Sessions, 20 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,108 characters per prompt
+📄 Detailed Prompter — average 1,368 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -166,7 +166,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19 16, 2026 07:19:21 UTC
+ Last Updated on 39 16, 2026 22:39:39 UTC
 <!--END_SECTION:waka-->
 
 
