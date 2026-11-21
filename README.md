@@ -97,7 +97,7 @@ This is not an exhaustive list.
 🌞 Morning                2085 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 🌆 Daytime                5610 commits        ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
 🌃 Evening                10868 commits       ███████████░░░░░░░░░░░░░░   43.91 % 
-🌙 Night                  6186 commits        ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+🌙 Night                  6187 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
@@ -107,7 +107,7 @@ Tuesday                  3149 commits        ███░░░░░░░░�
 Wednesday                4030 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 Thursday                 3552 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 Friday                   4166 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Saturday                 3452 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Saturday                 3453 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 Sunday                   2680 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
 ```
 
@@ -116,15 +116,15 @@ Sunday                   2680 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 14 mins       ██████████████████████░░░   89.51 % 
-Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Markdown                 5 hrs 24 mins       ███████████████████████░░   92.00 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 28 mins       █████████████████░░░░░░░░   68.47 % 
-VS Code                  1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   31.53 % 
+Obsidian                 4 hrs 44 mins       ████████████████████░░░░░   80.60 % 
+VS Code                  1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
 
 💻 Operating System: 
-Linux                    3 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -146,7 +146,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 45 21, 2026 07:45:31 UTC
+ Last Updated on 50 21, 2026 19:50:42 UTC
 <!--END_SECTION:waka-->
 
 
