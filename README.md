@@ -89,24 +89,24 @@ This is not an exhaustive list.
 
 <!-- weekly activity https://github.com/AnthonyMichaelTDM/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2043%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2085 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-🌆 Daytime                5612 commits        ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-🌃 Evening                10870 commits       ███████████░░░░░░░░░░░░░░   43.91 % 
-🌙 Night                  6189 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌞 Morning                2094 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+🌆 Daytime                5612 commits        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+🌃 Evening                10870 commits       ███████████░░░░░░░░░░░░░░   43.89 % 
+🌙 Night                  6190 commits        ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   3723 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Tuesday                  3149 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Wednesday                4030 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Thursday                 3552 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Friday                   4166 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Monday                   3723 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Tuesday                  3150 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Wednesday                4030 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Thursday                 3552 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Friday                   4175 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
 Saturday                 3454 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 Sunday                   2682 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
 ```
@@ -116,20 +116,41 @@ Sunday                   2682 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 15 mins       ████████████████████████░   95.87 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Python                   3 hrs 12 mins       █████████████░░░░░░░░░░░░   50.98 % 
+Markdown                 2 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.56 % 
+TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Git                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 20 mins       █████████████████████████   100.00 % 
+Copilot CLI              2 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.95 % 
+Obsidian                 2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.24 % 
+VS Code                  1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
 
 💻 Operating System: 
-Linux                    2 hrs 20 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 22 mins (53.45%)
+
+✍️ 28 lines written by AI, 201 lines written by hand (12.23% AI-written)
+
+🔤 171,847 Input Tokens, 0 Output Tokens
+
+💵 $12.05 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 45 AI Prompts
+
+GPT                      30 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 12.23% of written lines came from AI
+📝 Concise Prompter — average 109 characters per prompt
+🔁 Iterative Prompter — average 45 prompts per session
+🔍 Hands-On Reviewer — 87.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -145,7 +166,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28 24, 2026 10:28:46 UTC
+ Last Updated on 55 24, 2026 22:55:19 UTC
 <!--END_SECTION:waka-->
 
 
