@@ -96,19 +96,19 @@ This is not an exhaustive list.
 ```text
 🌞 Morning                2085 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 🌆 Daytime                5612 commits        ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-🌃 Evening                10868 commits       ███████████░░░░░░░░░░░░░░   43.91 % 
-🌙 Night                  6188 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌃 Evening                10868 commits       ███████████░░░░░░░░░░░░░░   43.90 % 
+🌙 Night                  6189 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   3720 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Monday                   3721 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 Tuesday                  3149 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 Wednesday                4030 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 Thursday                 3552 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 Friday                   4166 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 Saturday                 3454 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Sunday                   2682 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Sunday                   2682 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
 ```
 
 
@@ -116,15 +116,14 @@ Sunday                   2682 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 24 mins       ███████████████████████░░   92.00 % 
-Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Markdown                 2 hrs 15 mins       ████████████████████████░   95.87 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 🔥 Editors: 
-Obsidian                 4 hrs 44 mins       ████████████████████░░░░░   80.60 % 
-VS Code                  1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Obsidian                 2 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 52 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -146,7 +145,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14 23, 2026 08:14:51 UTC
+ Last Updated on 25 24, 2026 00:25:19 UTC
 <!--END_SECTION:waka-->
 
 
