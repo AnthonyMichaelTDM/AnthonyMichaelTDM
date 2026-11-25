@@ -89,7 +89,7 @@ This is not an exhaustive list.
 
 <!-- weekly activity https://github.com/AnthonyMichaelTDM/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2022%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -97,14 +97,14 @@ This is not an exhaustive list.
 🌞 Morning                2094 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 🌆 Daytime                5613 commits        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
 🌃 Evening                10870 commits       ███████████░░░░░░░░░░░░░░   43.89 % 
-🌙 Night                  6190 commits        ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+🌙 Night                  6191 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   3723 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 Tuesday                  3151 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Wednesday                4030 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Wednesday                4031 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 Thursday                 3552 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 Friday                   4175 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
 Saturday                 3454 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
@@ -116,41 +116,42 @@ Sunday                   2682 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 12 mins       █████████████░░░░░░░░░░░░   50.98 % 
-Markdown                 2 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.56 % 
-TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Git                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Python                   13 hrs 6 mins       ██████████████████░░░░░░░   73.58 % 
+Markdown                 3 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+TOML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Git                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
-Copilot CLI              2 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.95 % 
-Obsidian                 2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.24 % 
-VS Code                  1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+VS Code                  11 hrs 17 mins      ████████████████░░░░░░░░░   63.33 % 
+Copilot CLI              4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+Obsidian                 2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Copilot                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Linux                    6 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    17 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 22 mins (53.45%)
+⏱ AI Coding Time: 10 hrs (56.18%)
 
-✍️ 28 lines written by AI, 201 lines written by hand (12.23% AI-written)
+✍️ 28 lines written by AI, 150,028 lines written by hand (0.02% AI-written)
 
-🔤 171,847 Input Tokens, 0 Output Tokens
+🔤 1,759,647 Input Tokens, 8,223 Output Tokens
 
-💵 $12.05 Estimated AI Cost This Week
+💵 $51.12 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 45 AI Prompts
+🧠 5 AI Sessions, 126 AI Prompts
 
 GPT                      30 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.23% of written lines came from AI
-📝 Concise Prompter — average 109 characters per prompt
-🔁 Iterative Prompter — average 45 prompts per session
-🔍 Hands-On Reviewer — 87.07% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.02% of written lines came from AI
+📝 Concise Prompter — average 102 characters per prompt
+🔁 Iterative Prompter — average 25 prompts per session
+🔍 Hands-On Reviewer — 99.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -166,7 +167,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12 25, 2026 09:12:43 UTC
+ Last Updated on 08 25, 2026 22:08:24 UTC
 <!--END_SECTION:waka-->
 
 
